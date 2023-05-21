@@ -24,4 +24,4 @@
 5. Start main.py
 
 
-Bugs or questions? dm `Alexanderfem#0052`
+Bugs or questions? dm `Alexanderfem#0052` or join https://discord.gg/ppeWXnGs2w
