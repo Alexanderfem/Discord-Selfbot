@@ -19,8 +19,9 @@
 
 1. Download the repository zip file
 2. Extract the .zip file to a folder
-3. Change configuration in config.json
-4. Start main.py
+3. Delete the files inside `./backups` and `./memberids`
+4. Change configuration in config.json
+5. Start main.py
 
 
 Bugs or questions? dm `Alexanderfem#0052`
