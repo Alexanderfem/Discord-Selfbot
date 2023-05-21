@@ -13,7 +13,7 @@
 * **Keyword Searcher** - Sends a message to your webhook when someone has send a message that includes one of the keywords you have specified
 * **User Stalker** - Sends a webhook message when the targeted user(s) have changed something in their profile (Username, Global Name, Discriminator, Avatar or Bio)
 
-*View all commands by using the help command*
+> *View all commands by using the help command*
 
 ## Setup
 
