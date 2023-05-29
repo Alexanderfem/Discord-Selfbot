@@ -18,7 +18,7 @@ try:
     from datetime import datetime
     import re
 except ModuleNotFoundError: 
-    os.system('python -m pip install rgbprint requests discum=1.1.0 aiohttp asyncio pytz discord datetime')
+    os.system('python -m pip install rgbprint requests discum==1.1.0 aiohttp asyncio pytz discord datetime')
 
 
 
